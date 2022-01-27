@@ -68,7 +68,7 @@ const resolvers = {
     },
     deleteUserAnimal: async (parent, { animalId }, context) => {
       if (context.user) {
-        return await User.findOneAndUpdate(
+        return await User.findByIdAndUpdate(
           { _id: context.user._id },
           {
             $pull: { adoptedAnimals: { $eq: animalId } },
