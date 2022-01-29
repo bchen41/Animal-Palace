@@ -1,5 +1,7 @@
 # Animal Palace
 
+![badge](https://img.shields.io/badge/license-MIT-blue)
+
 ## Description
 
 As animal lovers, this application was created to encourage people to donate money to Animal Palace to help animals in need. Users are able to sign up, donate and symbolically adopt animals. Everyone will be able to view the animals in our shelter, but users must create an account to begin donating through Stripe. Users who donate are then able to symbolically adopt the animals. Users are able to view their contributions to see how many animals they have adopted with a list of the selected animals adopted. Furthermore, users are able to see how much they have donated in total to the cause.
@@ -9,9 +11,8 @@ As animal lovers, this application was created to encourage people to donate mon
 - [Technologies](#technologies)
 - [Preview](#preview)
 - [Contributors](#credit)
-- [Launch](#launch)
+- [Links](#links)
 - [License](#license)
-- [Badges](#badges)
 
 ## Technologies
 
@@ -35,13 +36,14 @@ Any questions or comments? Reach out to us through our GitHub!
 
 [Brian Smith](https://github.com/bjtsmith23), [Ken Crawford](https://github.com/kencford), [Betty Chen](https://github.com/bchen41), and [Marc Negron](https://github.com/negronmarc)
 
-## Launch
+## Links
 
-[Heroku](https://animal-palace.herokuapp.com/)
+[GitHub](https://github.com/bchen41/Animal-Palace)  
+[Heroku](https://animal-palace-donation.herokuapp.com/)
 
 ## License
 
-MIT License
+[MIT License](https://opensource.org/licenses/MIT)
 
     Copyright (c) [2022] [Betty Chen, Ken Crawford, Marc Negron, Brian Smith]
 
@@ -62,11 +64,3 @@ MIT License
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
-
-## Badges
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-## License Link
-
-[Click Me](https://opensource.org/licenses/MIT)
