@@ -8,11 +8,16 @@ As animal lovers, this application was created to encourage people to donate mon
 
 ## Table of Contents
 
+- [Usage](#usage)
 - [Technologies](#technologies)
 - [Preview](#preview)
 - [Contributors](#credit)
 - [Links](#links)
 - [License](#license)
+
+## Usage
+
+After cloning the repository, in the root folder, run "npm i" to install all the npm packages that are already in the package.json files. Then run "npm run seed" to obtain the database needed for this application. Lastly, run "npm run develop" which will automatically open a browser tab of the application.
 
 ## Technologies
 
