@@ -28,7 +28,7 @@ export default function Footer() {
       faIcon: faInstagramSquare,
     },
     {
-      hrefLink: "https://github.com/",
+      hrefLink: "https://twitter.com/",
       classFab: "fab fa-twitter-square fa-3x",
       faIcon: faTwitterSquare,
     },
